@@ -1,0 +1,10 @@
+npm install (the package.json and webpack.config.js we imported into this file)
+
+Make node watch themefiles for changes
+npm run devFast (runs tasks that are neccesary)
+
+Make changes to functions.php
+now run, npm run dev (creates traditional bundle assets for the public)
+
+When you are ready to prepare the assets for the public use 
+npm run build
